@@ -1,0 +1,15 @@
+{
+  "name": "docx-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-stream-zip": "^1.9.1",
+    "textract": "^2.5.0"
+  }
+}
